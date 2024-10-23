@@ -2,14 +2,11 @@
 
 
 
-# APNI-FARMING
-## A Modern Approach for Crop Health Monitoring and Maintainance
+# AGROVISION
+## A Modern Solution for Crop Health Monitoring and Maintenance
 
-A multipurpose and multiuser supported platform which helps farmers to maximize their crop yield by preventing them from various diseases. A farmer will be able to know from which disease their crops are infected. Farmer can also get information about their cattle's possible diseases if they show unusual behaviour. The last is a personalised data record of crops for decision-making in future harvesting and knowledge of profit obtained on their yield per year.
+A versatile, multi-user platform designed to help farmers optimize crop yield by preventing various diseases. Farmers can identify the specific diseases affecting their crops and receive alerts about potential cattle diseases based on unusual behavior. Additionally, the platform provides personalized crop data records for informed decision-making in future harvests and insights into yearly yield profitability.
 
-
-## 🚀 About Me
-I'm a full stack developer and a passionate competitive programmer...
 
 
 ## Tech Stack
@@ -131,7 +128,5 @@ This project is used by the farmers for their personalized usage.
  - [Know more about React Hooks](https://reactjs.org/docs/hooks-intro.html)
 
 
-## Feedback
 
-If you have any feedback, please reach out to us at y.abhisekhmessi535@gmail.com
 
