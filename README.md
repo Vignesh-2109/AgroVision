@@ -88,7 +88,7 @@ A versatile, multi-user platform designed to help farmers optimize crop yield by
 Clone the project
 
 ```bash
-  git clone https://github.com/bcsabhisekh/Digital-Farming.git
+  https://github.com/Vignesh-2109/AgroVision.git
 ```
 
 Go to the project directory
